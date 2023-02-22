@@ -1,0 +1,23 @@
+*{
+  padding: none;
+  margin: none;
+}
+
+.card{
+  margin: 30px;
+  padding: 10px;
+}
+
+.title{
+  text-align: center;
+}
+
+.menu{
+  padding: 10px;
+  margin: 30px;
+}
+
+#carouselExampleIndicators{
+  margin: 30px;
+  padding: 10px;
+}
